@@ -7,6 +7,13 @@
    
   }
 
+ /* the main text*/
+.releases {
+
+    font-size: 3vw;
+   
+  }
+
   /* unvisited link */
 a:link {
     color: royalblue;
