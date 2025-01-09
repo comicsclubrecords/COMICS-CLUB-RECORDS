@@ -29,3 +29,7 @@ a:link {
   a {
     text-decoration: none;
   }
+  
+  .all-text {
+    font-family: 'Times New Roman', Times, serif
+  }
