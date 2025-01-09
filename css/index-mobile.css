@@ -37,3 +37,7 @@ a:link {
   a {
     text-decoration: none;
   }
+
+  .body {
+    font-family: 'Times New Roman', Times, serif;
+  }
